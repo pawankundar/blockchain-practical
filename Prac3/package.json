@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bitcoin.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.2"
+  }
+}
